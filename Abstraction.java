@@ -21,7 +21,7 @@ public class Abstraction {
         JavaClass obj2 = new Scalable();
         
         // Calling the javaFeatures method for each object
-        obj1.javaFeatures();  // Output: JAVA is Robust
-        obj2.javaFeatures();  // Output: JAVA is Scalable
+        obj1.javaFeatures();  
+        obj2.javaFeatures();  
     }
 }
